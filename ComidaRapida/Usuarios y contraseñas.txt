@@ -1,0 +1,8 @@
+Usuarios
+----------------------------------------
+admin
+vendedor
+repartidor
+--------------------------------------
+Contraseñas
+12345 para todos
